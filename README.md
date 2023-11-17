@@ -1,11 +1,13 @@
 
-Welcome to My Landing Page
-Overview
-Welcome to my landing page! I've created a simple and professional landing page using HTML and CSS.
+# A Landing Page - HTML and CSS
 
-Preview
-Check out my resume: https://mohammedfaiyaz29.github.io/Landing-Page-HTML-CSS/
+This is my first landing page project where I've created my portfolio landing page using HTML and CSS. 
 
-Technologies Used
-HTML
-CSS
+## Preview
+
+[View My Resume](https://mohammedfaiyaz29.github.io/Landing-Page-HTML-CSS/)
+## Technologies Used
+
+- HTML
+- CSS
+
